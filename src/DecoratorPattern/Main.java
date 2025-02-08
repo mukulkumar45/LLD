@@ -17,5 +17,7 @@ public class Main {
         System.out.println(coffee1.getCost());
         System.out.println(coffee1.getDescription());
 
+        System.out.println("Design Complete");
+
     }
 }
